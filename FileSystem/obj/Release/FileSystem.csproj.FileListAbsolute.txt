@@ -1,0 +1,10 @@
+C:\Users\Marisa\documents\visual studio 2015\Projects\FileSystem\FileSystem\bin\Release\FileSystem.exe.config
+C:\Users\Marisa\documents\visual studio 2015\Projects\FileSystem\FileSystem\bin\Release\FileSystem.exe
+C:\Users\Marisa\documents\visual studio 2015\Projects\FileSystem\FileSystem\bin\Release\FileSystem.pdb
+C:\Users\Marisa\documents\visual studio 2015\Projects\FileSystem\FileSystem\obj\Release\FileSystem.csprojResolveAssemblyReference.cache
+C:\Users\Marisa\documents\visual studio 2015\Projects\FileSystem\FileSystem\obj\Release\FileSystem.InputNameForm.resources
+C:\Users\Marisa\documents\visual studio 2015\Projects\FileSystem\FileSystem\obj\Release\FileSystem.MainForm.resources
+C:\Users\Marisa\documents\visual studio 2015\Projects\FileSystem\FileSystem\obj\Release\FileSystem.Properties.Resources.resources
+C:\Users\Marisa\documents\visual studio 2015\Projects\FileSystem\FileSystem\obj\Release\FileSystem.csproj.GenerateResource.Cache
+C:\Users\Marisa\documents\visual studio 2015\Projects\FileSystem\FileSystem\obj\Release\FileSystem.exe
+C:\Users\Marisa\documents\visual studio 2015\Projects\FileSystem\FileSystem\obj\Release\FileSystem.pdb
